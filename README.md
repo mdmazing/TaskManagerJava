@@ -24,7 +24,7 @@ This is a simple **command-line task manager application** built using **Java** 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mdmazing/TaskManagerJava
    ```
 2. Navigate to the project directory.
 3. Compile the Java code:
